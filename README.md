@@ -37,7 +37,7 @@
 
 <div align="center">
 
-| 🎓 **Personal Project** | 📚 **Flutter Development** | 📅 **2025-2026** |
+| 🎓 **Personal Project** | 📚 **Flutter Development** | 📅 **31 01 2026 - 07 02 2026** |
 
 </div>
 
